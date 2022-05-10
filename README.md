@@ -8,7 +8,7 @@ This project compressed the length of DNA sequence in fastaq file , by looping D
 # How to use it 
 1. Download the fastq file you want to use as input( in this repository you can find "sample.fastq" file )
 2. Download this repository 
-3. Run compressed.py 
+3. Run Length_compression.py 
 
 
 
